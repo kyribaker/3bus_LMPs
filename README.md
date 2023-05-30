@@ -1,5 +1,5 @@
 # 3bus_LMPs
-An illustration of how transmission congestion creates negative LMPs, and thus a benefit to increasing load. Note there are no renewables or start up/shut down costs here, the negative prices are purely due to snapshot-OPF congestion.
+An illustration of how transmission congestion creates negative LMPs, and thus a benefit to increasing load. Note there are no renewables or start up/shut down costs here, the negative prices are purely due to snapshot-OPF congestion. There are also no upper limits on the maximum output of each generators.
 
 Left: $7600
 
